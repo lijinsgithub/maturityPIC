@@ -1,0 +1,11 @@
+Package: maturityPIC
+Type: Package
+Title: Computing and Plotting Probabiilty of an Immature Curve (PIC) to compare different study design
+Version: 0.1
+Date: 2018-09-03
+Author: LiJin Joo
+Maintainer: LiJin Joo <lijin.joo@gmail.com>
+Description: A Package to evaluate the maturity of a given set of sample size and study duration by PIC
+License: GPLv3
+LazyData: TRUE
+RoxygenNote: 6.1.0
